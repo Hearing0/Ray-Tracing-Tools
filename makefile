@@ -4,9 +4,9 @@ LIBS= -lstdc++
 
 INCLUDE= 
 
-OBJS=src/ppm_example.o
+OBJS=src/main.o
 
-TARGET=ppm_example
+TARGET=main
 
 all: 
 	build
