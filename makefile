@@ -1,6 +1,6 @@
 CFLAGS= -Wall -Wextra -pedantic
 
-LIBS= -lstdc++
+LIBS= -lstdc++ -lm
 
 INCLUDE= 
 
